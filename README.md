@@ -1,4 +1,6 @@
-                                                                     # 👋 Hi, I'm Mahmoud
+<p align="center">
+  <h1>👋 HI, I'M MAHMOUD</h1>
+</p>
 
 ## 💻 About Me
 I am a Full-Stack Web Developer, working on both Front-End and Back-End
@@ -21,5 +23,6 @@ to build practical, secure, and fast web applications and platforms.
 
 ## 📫 Contact Me
 - GitHub: https://github.com/mahmoudreda2020outlooc-droid
+
 
 ⭐ I love sharing my projects and experience 👨‍💻
