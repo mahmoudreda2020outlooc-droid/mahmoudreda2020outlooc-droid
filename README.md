@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahmoud
 
-<!--
-**mahmoudreda2020outlooc-droid/mahmoudreda2020outlooc-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I am a Full-Stack Web Developer, working on both Front-End and Back-End
+to build practical, secure, and fast web applications and platforms.
 
-Here are some ideas to get you started:
+## 🛠 Technical Skills
+### Front-End
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Back-End
+- Server-Side Development
+- APIs
+- Database Integration
+
+### Tools
+- Git & GitHub
+- Deployment & Hosting
+
+## 📫 Contact Me
+- GitHub: https://github.com/mahmoudreda2020outlooc-droid
+- Email: yourname@example.com
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+⭐ I love sharing my projects and experience 👨‍💻
