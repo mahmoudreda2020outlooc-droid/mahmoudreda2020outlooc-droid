@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mahmoudreda2020outlooc-droid/raw/main/assets/github.gif" alt="Hi, I'm Mahmoud 👋 Full-Stack Web Developer">
+  <img src="https://github.com/mahmoudreda2020outlooc-droid/raw/main/assets/github.gif" alt="Hi, I'm Mahmoud 👋 Full-Stack Web Developer" width="400"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Mahmoud</h1>
