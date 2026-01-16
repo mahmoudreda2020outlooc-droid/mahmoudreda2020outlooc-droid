@@ -10,14 +10,14 @@
 ## :computer: Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -27,6 +27,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudreda2020outlooc-droid&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudreda2020outlooc-droid&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## :file_folder: Latest Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudreda2020outlooc-droid&repo=project1&theme=radical" alt="project1" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudreda2020outlooc-droid&repo=project2&theme=radical" alt="project2" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudreda2020outlooc-droid&repo=project3&theme=radical" alt="project3" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudreda2020outlooc-droid&repo=project4&theme=radical" alt="project4" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudreda2020outlooc-droid&repo=project5&theme=radical" alt="project5" height="140"/>
 </p>
 
 ---
