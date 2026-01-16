@@ -11,13 +11,13 @@
 ```dart
 class Mahmoud {
   String role = "Fullstack Developer (Frontend & Backend)";
-  String language = "Arabic & English";
+  String motto = "Turning ideas into reality, one line of code at a time";
   List<String> skills = [
-    "React.js & Next.js",
-    "Node.js & Express",
-    "C++ & Python",
-    "Database Management (MySQL, MongoDB)",
-    "Git & GitHub",
-    "Clean & Scalable Code"
+    "Building beautiful and responsive web apps",
+    "Creating robust backend systems",
+    "Writing clean and maintainable code",
+    "Solving complex problems with logic and creativity",
+    "Learning new technologies every day"
   ];
+  String funFact = "I love coding challenges, exploring new frameworks, and making tech fun!"
 }
