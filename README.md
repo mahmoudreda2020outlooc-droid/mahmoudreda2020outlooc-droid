@@ -31,18 +31,6 @@
 
 ---
 
-## :file_folder: Latest Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudreda2020outlooc-droid&repo=project1&theme=radical" alt="project1" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudreda2020outlooc-droid&repo=project2&theme=radical" alt="project2" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudreda2020outlooc-droid&repo=project3&theme=radical" alt="project3" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudreda2020outlooc-droid&repo=project4&theme=radical" alt="project4" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudreda2020outlooc-droid&repo=project5&theme=radical" alt="project5" height="140"/>
-</p>
-
----
-
 ## :link: Contact
 
 <p align="center">
