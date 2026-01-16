@@ -11,7 +11,8 @@
 
 ---
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+<!-- BMW GIF -->
+<img src="https://media.tenor.com/images/ff5c02e3bbecb25c00ab4b2f77d6dbcb/tenor.gif" width="100%" height="auto" />
 
 ## 🚀 About Me
 
