@@ -21,7 +21,6 @@ to build practical, secure, and fast web applications and platforms.
 
 ## 📫 Contact Me
 - GitHub: https://github.com/mahmoudreda2020outlooc-droid
-- Email: yourname@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: mahmoudreda2020outlooc@gmail.com
 
 ⭐ I love sharing my projects and experience 👨‍💻
